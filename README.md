@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey there 👋
 
 <!--
 **jokyjoe-joy/jokyjoe-joy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### ✌🏽 I'm Gary, a hobbyist coder ✨
+
+- 🔭 I’m currently working on video games! ^^
+- 🌱 I’m currently learning C++!
+- 💬 Ask me about anything relating medicine! (oh yeah, I'm studying medicine)
+- 📫 How to reach me: I prefer e-mail, which you can find on the left!
+- ⚡ Fun fact about me: I speak (at March 15, 2021) four (non-programming) languages fluently.
+
+[![GH stats 🔝📈](https://github-readme-stats.vercel.app/api?username=jokyjoe-joy&count_private=true&show_icons=true&theme=radical&line_height=33&hide_rank=false&hide=contribs,issues)](https://github.com/jokyjoe-joy?tab=repositories&q=&type=public&language=)
+![Top Langs 💻](https://github-readme-stats.vercel.app/api/top-langs/?username=jokyjoe-joy&count_private=true&theme=radical&line_height=30&layout=default)]
