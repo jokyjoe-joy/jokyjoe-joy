@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 ### ✌🏽 I'm Gary, a hobbyist coder ✨
 
-- 🔭 I’m currently working on NAIDA! ^^
-- 🌱 I’m currently learning the PERN stack!
-- 💬 Ask me about anything related to medicine! (oh yeah, I'm studying medicine)
+- 🌱 I’m currently learning Algorithms & Data Structures in C++!
 - 📫 How to reach me: via e-mail, it's on your left!
-- ⚡ Fun fact about me: I speak (at the time of writing) four (non-programming) languages fluently 😄.
+- ⚡ Fun fact about me: I speak (at the time of writing) four (non-programming) languages fluently. ^^
 
 [![GH stats 🔝📈](https://github-readme-stats.vercel.app/api?username=jokyjoe-joy&count_private=true&show_icons=true&theme=radical&line_height=33&hide_rank=false&hide=contribs,issues)](https://github.com/jokyjoe-joy?tab=repositories&q=&type=public&language=)
 ![Top Langs 💻](https://github-readme-stats.vercel.app/api/top-langs/?username=jokyjoe-joy&count_private=true&theme=radical&line_height=30&layout=default)
