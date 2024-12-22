@@ -4,7 +4,6 @@
   </a>
 </h1>
 
-<hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
 <br>
 <p align="center">
