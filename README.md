@@ -1,25 +1,8 @@
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&random=false&lines=Hey+there!;I+am+Gary+Raven.;Nice+to+meet+you!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22&random=false&lines=Hey+there!;Nice+to+meet+you!" alt="Typing SVG" />
   </a>
 </h1>
-
-<h3 align="center">
-  ✌🏽 I'm Gary, an MD student & coder ✨
-</h3>
-
-<p align="center">
-  Hi, I'm Gary Raven, MD Student & Software Developer from Hungary
-  <br>
-  <br>
-  🎓 I'm studying at Semmelweis University
-  <br>
-  💻 I’m nowadays working with Rust, Python & Julia
-  <br>
-  🔬 I'm currently working on a research project in Bioinformatics
-  <br>
-  📫 You can reach me via e-mail, it's on your left!
-</p>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
